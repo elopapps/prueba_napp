@@ -1,0 +1,14 @@
+.ItemBody{
+    text-align: left;
+    padding: 15px 10px 0 15px;
+}
+
+.Smalltext{
+    display:block;
+    font-size:0.8em;
+}
+
+.Description{
+    display:block;
+    font-weight: bold;
+}
